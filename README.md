@@ -1,4 +1,3 @@
-
 ![Scrape and analyze data analyst job requirements with Python](https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/e6/cbfa6c05374202a8f50d02334fc31f/logo-data-analysis.png?auto=format%2Ccompress&dpr=1)
 # scrape-data-job-requirements
 Scrape and analyze data analyst job requirements with Python
@@ -24,4 +23,3 @@ A recruitment agency is looking to improve its job vacancy sourcing. They want y
 ## Tools used
 
 ![Python](https://img.shields.io/badge/Python-003366?style=for-the-badge&logo=python&logoColor=white)
-
